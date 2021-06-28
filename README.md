@@ -1,2 +1,2 @@
 # Library-Management-System
-Sem3 Project
+This repository was created as a part of Data Structures project
